@@ -4,7 +4,7 @@ import { v2sub } from 'ts2ray';
 const colors = require('colors/safe');
 
 const program = new Command();
-program.version('0.0.1', '-v, --version', 'output the current version');
+program.version('ts2ray-cli 0.0.1', '-v, --version', 'output the current version');
 
 program
     .requiredOption('-u, --url <url>', 'subscription url')
