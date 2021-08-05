@@ -5,7 +5,7 @@ var commander_1 = require("commander");
 var ts2ray_1 = require("ts2ray");
 var colors = require('colors/safe');
 var program = new commander_1.Command();
-program.version('ts2ray-cli 0.0.1', '-v, --version', 'output the current version');
+program.version('ts2ray-cli 1.0.9', '-v, --version', 'output the current version');
 program
     .requiredOption('-u, --url <url>', 'subscription url')
     .option('-n, --name <name>', 'subscription name')

@@ -1,6 +1,6 @@
 {
   "name": "ts2ray-cli",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "ts2ray cli tool",
   "main": "index.js",
   "bin": {
