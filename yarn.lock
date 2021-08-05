@@ -331,10 +331,10 @@ ts-node@^9.1.1:
     source-map-support "^0.5.17"
     yn "3.1.1"
 
-ts2ray@^1.1.13:
-  version "1.1.13"
-  resolved "https://registry.yarnpkg.com/ts2ray/-/ts2ray-1.1.13.tgz#2a0e7da6fce9defabd190af2baf86fbdd0649f5a"
-  integrity sha512-cZL8Ir49W4i+o745rv21//lsGu9zjz8bxmHo47OMQyoHx/OSB+3q4oIFUGE/ONelG8uCS2lQf+sCO4VpJBpTxg==
+ts2ray@latest:
+  version "1.1.15"
+  resolved "https://registry.yarnpkg.com/ts2ray/-/ts2ray-1.1.15.tgz#febd2c63478db1da2454af79ecce984ba7c7bb53"
+  integrity sha512-Uqx/yS0qmi1UHAX2M2w5yUn5cc9/rqGshOMQLSZAzsuI4cPDgukJAN1VXUND4CI9xAna3FyG3fvp7G3eJM/SAA==
   dependencies:
     "@types/node" latest
     nodejs-base64 latest
